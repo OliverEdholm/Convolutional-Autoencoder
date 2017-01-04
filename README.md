@@ -32,7 +32,7 @@ Image 4:
 * Keras, for evaluation script
 
 ### Usage
-**Dataset preparation:**
+**Training and dataset preparation:**
 
 1. Create a folder with the name "images", without quotation marks.
 
@@ -40,7 +40,9 @@ Image 4:
 
 3. Put all the images you want to train on there.
 
-4. Done.
+4. Create a folder called "checkpoints".
+
+5. Done.
 
 **Training:**
 
