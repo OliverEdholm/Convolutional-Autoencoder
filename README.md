@@ -50,7 +50,7 @@ Run this command to train the convolutional autoencoder on the images in the ima
 ```
 python3 quote_lstm.py
 ```
-All checkpoints will be stored in a chekckpoints folder.
+All checkpoints will be stored in the checkpoints folder.
 
 **Evaluation**
 
