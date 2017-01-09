@@ -1,4 +1,4 @@
-# Neural-convolutional-autoencoder
+# Convolutional Autoencoder
 A convolutional autoencoder made in TFLearn.
 
 ### Examples
