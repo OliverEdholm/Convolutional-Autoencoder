@@ -48,7 +48,7 @@ Image 4:
 
 Run this command to train the convolutional autoencoder on the images in the images folder.
 ```
-python3 quote_lstm.py
+python3 train_autoencoder.py
 ```
 All checkpoints will be stored in the checkpoints folder.
 
