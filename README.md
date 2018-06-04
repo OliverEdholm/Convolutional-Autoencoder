@@ -2,7 +2,7 @@
 A convolutional autoencoder made in TFLearn.
 
 ### Examples
-I trained this "architecture" on selfies (256*256 RGB) and the encoded representation is 4% the size of the original image and terminated the training procedure after one epoch out of sheer excitement.
+I trained this "architecture" on selfies (256*256 RGB) and the encoded representation is 4% the size of the original image and terminated the training procedure after only one epoch.
 
 Here are the results (selfies are taken from google image search https://www.google.com/search?as_st=y&tbm=isch&as_q=selfie&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=itp:face,sur:fmc):
 
